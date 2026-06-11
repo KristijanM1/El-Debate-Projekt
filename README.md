@@ -1,6 +1,4 @@
-<img width="1225" height="801" alt="{E22C3EE3-4E34-4655-BE3D-FA7FE473A06C}" src="https://github.com/user-attachments/assets/8d87f5c3-72e9-4216-9dfc-3d13a8badbe3" /># El Debate
-
-Web-aplikacija za pregled i administraciju vijesti, izrađena kao projekt za
+Web aplikacija za pregled i administraciju vijesti, izrađena kao projekt za
 predmete **Programiranje web aplikacija** te **Podatkovna povezanost i digitalna
 infrastruktura**.
 
